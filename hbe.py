@@ -76,7 +76,7 @@ def type():
 
 #list tests 
 def list_tests():
-    time.sleep(2)
+    time.sleep(4)
     global rem_test_names,rem_test_start
     rem_test_names=[]
     rem_test_start=[]
